@@ -2,7 +2,7 @@
 **Students**: Hajrudin Imamovic, Adnan Mehmedovic\
 **Date of submission**: 26th March 2024.\
 **Project File Tasks**: NO. 5\
-**Course**:Operating Systems IT 204
+**Course**:Operating Systems IT 204\
 **GitHub Link**: https://github.com/hajruuudin/OS_ShellProject
 
 ## File Listing / Directories
