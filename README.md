@@ -3,6 +3,7 @@
 **Date of submission**: 26th March 2024.\
 **Project File Tasks**: NO. 5\
 **Course**:Operating Systems IT 204
+**GitHub Link**: https://github.com/hajruuudin/OS_ShellProject
 
 ## File Listing / Directories
 In this repository you will find:
@@ -15,7 +16,7 @@ In this repository you will find:
     - print_prompt.: for printing the prompt
 
 ## Compiling Instructons
-For the compilation of this program, run the terminal and change into the directory where this folder is downloaded / cloned from git. Afterwards, run the command "make" in the terminal. This will automatically compile all the files using the **gcc** compiler and the following flags for error checking: **-Wall -Wextra -std=c11**. The compiled executable has the name: "os_204_shellproject". Run it using ./os_204_shellproject.
+For the compilation of this program, run the terminal and change into this folder/directory cloned from git. Afterwards, run the command "make" in the terminal. This will automatically compile all the files using the **gcc** compiler and the following flags for error checking: **-Wall -Wextra -std=c11**. The compiled executable has the name: "os_204_shellproject". Run it using ./os_204_shellproject.
 
 ## Assignment outline and task
 We were tasked with creating a simple shell interface that supports a variety of commands and acts like a normal operating system shell. The shell allows for a variety of built in commands, all of which are explained in the following block of text. The shell:
