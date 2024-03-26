@@ -45,8 +45,8 @@ We were tasked with creating a simple shell interface that supports a variety of
 **Description**: Clears the termnial.
 
 **Function**: Print file\
-**Command**: cat\ - SUPPORTS OUTPUT REDIRECTION
-**Arguments**: filename1, filenam2... optional arguments (-c, -l, -s)
+**Command**: cat - SUPPORTS OUTPUT REDIRECTION\
+**Arguments**: filename1, filenam2... optional arguments (-c, -l, -s)\
 **Description**: Copies the contents of a certain file into either the comman prompt or another output file. The additional arguments work as follows:
 - Turn the output to uppercase: -c
 - Turn the output to lowercase: -l
@@ -73,14 +73,15 @@ We were tasked with creating a simple shell interface that supports a variety of
 **Description**: Replaces the current process with the specified one.
 
 **Function**: Print a cow saying a message\
-**Command**: cowsay\ - SUPPORTS OUTPUT REDIRECTION
+**Command**: cowsay - SUPPORTS OUTPUT REDIRECTION\
 **Arguments**: message\
 **Description**: Prints a cow saying the said message.
 
-**Function**: Forkbomb\ - CAUTION!!
+**Function**: Forkbomb - CAUTION!!\
 **Command**: forkbomb\
 **Arguments**: none\
-**Description**: Creates 20 processes running concurrently. LIMITED AS TO NOT CRASH THE PC. WE HEARD THIS CAN BREAK COMPUTERS SO WE WERE EXTRA CAREFUL WITH IT!!
+**Description**: Creates 20 processes running concurrently.\
+LIMITED AS TO NOT CRASH THE PC. WE HEARD THIS CAN BREAK COMPUTERS SO WE WERE EXTRA CAREFUL WITH IT!!
 
 **Function**: Secret message\
 **Command**: secret\
